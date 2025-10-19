@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<p align="left">- ⚙️ I'm a backend developer<br>- 💬 Ask me about Spring Boot and Java <br>- ⚡ In my free time I read books <br>-  🎮 I'm one of the developers of Jurubamanji in Instituto Federal Fluminense<br>- ✍ Love to solve problems and write smart algorithms<br>- 🤔 I'm a prety curios person<br>- 📚 I'm currently learning conteinerization with docker and Frontend development with Angular and React</p>
+<p align="left">- ⚙️ I'm a backend developer<br>- 💬 Ask me about Spring Boot and Java <br>- ⚡ In my free time I read books <br>-  🎮 I'm one of the developers of Jurubamanji in Instituto Federal Fluminense<br>- ✍ Love to solve problems and write smart algorithms<br>- 🤔 I'm curious and proactive<br>- 📚 I'm currently learning conteinerization with docker and Frontend development with Angular and React</p>
 
 ###
 
